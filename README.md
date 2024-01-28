@@ -1,7 +1,8 @@
 # Intro
 CanvasBlob is a javascript "component" that draws a Blob to an HTML canvas.
 <br/>
-This is a mirror copy of the blob used in my personal website at https://manku.dev/
+This -was- a mirror copy of the blob used in my personal website at https://manku.dev/
+The live production version is now drastically different but evolved from the same codebase in this repo.
 
 # Customization potential
 
